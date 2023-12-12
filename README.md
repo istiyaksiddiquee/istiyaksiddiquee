@@ -42,7 +42,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 ## Web Handles
 
-[![Personal Website](https://img.shields.io/badge/website?style=flat-square&url=https://istiyaksiddiquee.github.io/)](https://istiyaksiddiquee.github.io/)
+[![Personal Website](https://img.shields.io/website?color=black&style=flat-square&url=https://istiyaksiddiquee.github.io/)](https://istiyaksiddiquee.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/istiyaksiddiquee/)](https://www.linkedin.com/in/istiyaksiddiquee/)
 [![Google Scholar](https://img.shields.io/badge/GoogleScholar-grey?style=flat-square&labelColor=4285F4&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=q8rcR-oAAAAJ&hl=en)
 [![Xing Badge](https://img.shields.io/badge/Xing-006567.svg?style=flat-square&logo=Xing&logoColor=white)](https://www.xing.com/profile/IstiyakH_Siddiquee/)
