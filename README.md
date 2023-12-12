@@ -1,6 +1,8 @@
 ### Hello there 👋
 
-This is Istiyak. I have 6+ years of experience in backend development. In 2019, I immigrated from Bangladesh to Germany. Since 2021, I have been working as a Backend and Machine Learning Engineer at Universitätsklinikum Magdeburg. 
+This is Istiyak. I have 6+ years of experience in backend development. In 2019, I came from Bangladesh to Germany. Since 2021, I have been working as a Backend and Machine Learning Engineer at Universitätsklinikum Magdeburg. 
+
+I am currently working on my portfolio project, showcasing my knowledge of full-stack machine learning workflow. 
 
 
 These are some of the major technologies that I use or have worked on in the past:
@@ -44,24 +46,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 [![Personal Website](https://img.shields.io/website?label=Website&up_message=%20&labelColor=black&color=black&style=flat-square&url=https://istiyaksiddiquee.github.io/)](https://istiyaksiddiquee.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/istiyaksiddiquee/)](https://www.linkedin.com/in/istiyaksiddiquee/)
-[![Google Scholar](https://img.shields.io/badge/GoogleScholar-grey?style=flat-square&labelColor=4285F4&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=q8rcR-oAAAAJ&hl=en)
 [![Xing Badge](https://img.shields.io/badge/Xing-006567.svg?style=flat-square&logo=Xing&logoColor=white)](https://www.xing.com/profile/IstiyakH_Siddiquee/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/istiyaksiddique)
+[![Google Scholar](https://img.shields.io/badge/GoogleScholar-grey?style=flat-square&labelColor=4285F4&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=q8rcR-oAAAAJ&hl=en)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@istiyaksiddiquee)
-
-
-
-<!--
-**istiyaksiddiquee/istiyaksiddiquee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/istiyaksiddique)
