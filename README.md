@@ -35,7 +35,7 @@ These are some of the major technologies that I use or have worked on in the pas
 [![Google Scholar](https://img.shields.io/badge/GoogleScholar-Wenjie_Du-grey?style=flat-square&labelColor=4285F4&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=q8rcR-oAAAAJ&hl=en)
 [![Xing Badge](https://img.shields.io/badge/Xing-006567.svg?style=flat-square&logo=Xing&logoColor=white)](https://www.xing.com/profile/IstiyakH_Siddiquee/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/istiyaksiddique)
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@istiyaksiddiquee)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@istiyaksiddiquee)
 
 
 
