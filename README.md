@@ -17,6 +17,11 @@ These are some of the major technologies that I use or have worked on in the pas
 <img title="SKLearn" alt="SKLearn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png" />|<img alt="PyTorch" title="PyTorch" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png">|<img title="mlflow" alt="mlflow" width="40px" src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png">|<img title="w&b" alt="w&b" width="40px" src="https://raw.githubusercontent.com/wandb/assets/main/wandb-logo-yellow-dots-black-wb.svg">
 |--|--|--|--|
 
+**Libraries and Frameworks**
+
+<img title="NestJS" alt="nestjs" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nestjs/nestjs.png">|<img title="typescript" alt="typescript" width="40px" src="<img title="NestJS" alt="nestjs" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nestjs/nestjs.png">">|<img alt="fastapi" title="fastapi" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/fastapi/fastapi.png">|<img title="flask" alt="flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">|<img title="spring" alt="spring" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring/spring.png">
+|--|--|--|--|--|
+
 
 **Infrastructure**
 
