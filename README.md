@@ -29,7 +29,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <br>
 
-## Let's Connect
+## Web Handles
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/istiyaksiddiquee/)](https://www.linkedin.com/in/istiyaksiddiquee/)
 [![Google Scholar](https://img.shields.io/badge/GoogleScholar-grey?style=flat-square&labelColor=4285F4&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=q8rcR-oAAAAJ&hl=en)
