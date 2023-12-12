@@ -29,7 +29,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Apache Products**
 
-<img title="Kafka" alt="Kafka" width="40px" src="https://assets.stickpng.com/images/62a879c53048e459144d038a.png">|<img title="flink" alt="flink" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flink/flink.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="cmder" alt="cmder" width="40px" src="https://raw.githubusercontent.com/cmderdev/cmder/master/icons/icon_256.png">
+<img title="Kafka" alt="Kafka" width="40px" src="https://static-00.iconduck.com/assets.00/kafka-icon-512x234-uqez3fj8.png">|<img title="flink" alt="flink" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flink/flink.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="cmder" alt="cmder" width="40px" src="https://raw.githubusercontent.com/cmderdev/cmder/master/icons/icon_256.png">
 |--|--|--|--|
 
 <br>
