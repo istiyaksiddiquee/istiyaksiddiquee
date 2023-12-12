@@ -4,7 +4,7 @@ This is Istiyak. I have 6+ years of experience in backend development. In 2019, 
 
 I am currently working on my portfolio project, showcasing my knowledge of full-stack machine learning workflow. 
 
-<img align="right" alt="Coder GIF"  width="500" height="318" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img align="right" alt="Coder GIF"  width="450" height="318" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 These are some of the major technologies that I use or have worked on in the past:
 
