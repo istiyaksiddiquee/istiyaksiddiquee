@@ -31,6 +31,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <img title="Kafka" alt="Kafka" width="60px" src="https://static-00.iconduck.com/assets.00/kafka-icon-512x234-uqez3fj8.png">|<img title="flink" alt="flink" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Apache_Flink_logo.svg/640px-Apache_Flink_logo.svg.png">|<img title="dbt" alt="dbt" width="60px" src="https://seeklogo.com/images/D/dbt-logo-E4B0ED72A2-seeklogo.com.png">
 |--|--|--|
+<img title="Kafka" alt="Kafka" width="60px" src="https://raw.githubusercontent.com/github/explore/master/topics/airflow/airflow.png">|<img title="flink" alt="flink" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Apache_Flink_logo.svg/640px-Apache_Flink_logo.svg.png">|<img title="dbt" alt="dbt" width="60px" src="https://seeklogo.com/images/D/dbt-logo-E4B0ED72A2-seeklogo.com.png">
 
 <br>
 
