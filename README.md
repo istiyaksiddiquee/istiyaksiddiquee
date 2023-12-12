@@ -19,7 +19,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Libraries and Frameworks**
 
-<img title="NestJS" alt="nestjs" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nestjs/nestjs.png">|<img title="typescript" alt="typescript" width="40px" src="<img title="NestJS" alt="nestjs" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nestjs/nestjs.png">">|<img alt="fastapi" title="fastapi" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/fastapi/fastapi.png">|<img title="flask" alt="flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">|<img title="spring" alt="spring" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring/spring.png">
+<img title="NestJS" alt="nestjs" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nestjs/nestjs.png">|<img title="typescript" alt="typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png">">|<img alt="fastapi" title="fastapi" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/fastapi/fastapi.png">|<img title="flask" alt="flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">|<img title="spring" alt="spring" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring/spring.png">
 |--|--|--|--|--|
 
 
