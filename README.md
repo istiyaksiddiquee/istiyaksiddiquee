@@ -3,8 +3,6 @@
 This is Istiyak. I have 6+ years of experience in backend development. In 2019, I immigrated from Bangladesh to Germany. Since 2021, I have been working as a Backend and Machine Learning Engineer at Universitätsklinikum Magdeburg. 
 
 
-## Skill Set :muscle:
-
 These are some of the major technologies that I use or have worked on in the past:
 
 **Programming Languages**
@@ -30,7 +28,7 @@ These are some of the major technologies that I use or have worked on in the pas
 |--|--|--|--|
 
 <br>
-
+Let's connect
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/istiyaksiddiquee/)](https://www.linkedin.com/in/istiyaksiddiquee/)
 
