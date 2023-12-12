@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello there 👋
+
+This is Istiyak. I work as a backend and machine learning engineer at Universitatsklinikum magdeburg. 
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/istiyaksiddiquee/)](https://www.linkedin.com/in/istiyaksiddiquee/)
+
 
 <!--
 **istiyaksiddiquee/istiyaksiddiquee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
