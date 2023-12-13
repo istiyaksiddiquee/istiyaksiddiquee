@@ -28,9 +28,8 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Infrastructure**
 
-<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">|<img title="Kubernetes" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png">|<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">
-|--|--|--|
-<img title="Vagrant" alt="Vagrant" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/vagrant/vagrant.png">|<img title="Terraform" alt="Terraform" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png">|<img title="Ansible" alt="Ansible" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/ansible/ansible.png">
+<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">|<img title="Kubernetes" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png">|<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="Vagrant" alt="Vagrant" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/vagrant/vagrant.png">|<img title="Terraform" alt="Terraform" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png">|<img title="Ansible" alt="Ansible" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/ansible/ansible.png">
+|--|--|--|--|--|--|
 
 
 **Databases**
@@ -47,9 +46,8 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Other Products**
 
-<img title="Kafka" alt="Kafka" width="60px" src="https://static-00.iconduck.com/assets.00/kafka-icon-512x234-uqez3fj8.png">|<img title="flink" alt="flink" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Apache_Flink_logo.svg/640px-Apache_Flink_logo.svg.png">|<img title="dbt" alt="dbt" width="60px" src="https://seeklogo.com/images/D/dbt-logo-E4B0ED72A2-seeklogo.com.png">
-|--|--|--|
-<img title="airflow" alt="airflow" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png">|<img title="flyte" alt="flyte" width="60px" src="https://miro.medium.com/v2/resize:fit:818/1*02SDxH5liMuWTa85WoeHAg.png">|<img title="prefect" alt="prefect" width="60px" src="https://cdn.worldvectorlogo.com/logos/prefect-wordmark-1.svg">
+<img title="Kafka" alt="Kafka" width="60px" src="https://static-00.iconduck.com/assets.00/kafka-icon-512x234-uqez3fj8.png">|<img title="flink" alt="flink" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Apache_Flink_logo.svg/640px-Apache_Flink_logo.svg.png">|<img title="dbt" alt="dbt" width="60px" src="https://seeklogo.com/images/D/dbt-logo-E4B0ED72A2-seeklogo.com.png">|<img title="airflow" alt="airflow" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png">|<img title="flyte" alt="flyte" width="60px" src="https://miro.medium.com/v2/resize:fit:818/1*02SDxH5liMuWTa85WoeHAg.png">|<img title="prefect" alt="prefect" width="60px" src="https://cdn.worldvectorlogo.com/logos/prefect-wordmark-1.svg">
+|--|--|--|--|--|--|
 
 <br>
 
