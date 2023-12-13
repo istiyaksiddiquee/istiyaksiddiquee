@@ -37,14 +37,13 @@ These are some of the major technologies that I use or have worked on in the pas
 <img title="postgresql" alt="postgresql" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|<img title="Trino" alt="Trino" width="40px" src="https://avatars.githubusercontent.com/u/34147222?s=280&v=4"> <br>
 |--|--|--| 
 
--->
-
 
 **Tools**
 
 <img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="cmder" alt="cmder" width="40px" src="https://raw.githubusercontent.com/cmderdev/cmder/master/icons/icon_256.png">
 |--|--|--|--|
 
+-->
 
 **Other Products**
 
