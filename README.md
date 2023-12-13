@@ -32,10 +32,12 @@ These are some of the major technologies that I use or have worked on in the pas
 |--|--|--|--|--|--|
 
 
-**Databases**
+<!-- **Databases** 
 
 <img title="postgresql" alt="postgresql" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|<img title="Trino" alt="Trino" width="40px" src="https://avatars.githubusercontent.com/u/34147222?s=280&v=4"> <br>
-|--|--|--|
+|--|--|--| 
+
+-->
 
 
 **Tools**
