@@ -1,10 +1,3 @@
-
-<style>
-  body {
-    font-family: consolas, sans-serif;
-  }
-</style>
-
 ### Hello there 👋
 
 This is Istiyak. I have 6+ years of experience in backend development. In 2019, I came from Bangladesh to Germany. Since 2021, I have been working as a Backend and Machine Learning Engineer at Universitätsklinikum Magdeburg. 
