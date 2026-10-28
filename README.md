@@ -16,7 +16,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Machine Learning**
 
-<img title="SKLearn" alt="SKLearn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png" />|<img alt="PyTorch" title="PyTorch" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png">|<img title="mlflow" alt="mlflow" width="40px" src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png">|<img title="w&b" alt="w&b" width="40px" src="https://raw.githubusercontent.com/wandb/assets/main/wandb-logo-yellow-dots-black-wb.svg">
+<img title="SKLearn" alt="SKLearn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png" />|<img alt="PyTorch" title="PyTorch" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png">|<img title="mlflow" alt="mlflow" width="40px" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/ml-flow-wordmark.png">|<img title="w&b" alt="w&b" width="40px" src="https://raw.githubusercontent.com/wandb/assets/main/wandb-logo-yellow-dots-black-wb.svg">
 |--|--|--|--|
 
 
