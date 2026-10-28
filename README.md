@@ -47,7 +47,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Other Products**
 
-<img title="Kafka" alt="Kafka" width="60px" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/kafka.png">|<img title="flink" alt="flink" width="60px" src="https://dashboardicons.com/api/icons/external/simpleicons/apacheflink/dark.png">|<img title="dbt" alt="dbt" width="60px" src="https://seeklogo.com/images/D/dbt-logo-E4B0ED72A2-seeklogo.com.png">|<img title="airflow" alt="airflow" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png">|<img title="flyte" alt="flyte" width="60px" src="https://miro.medium.com/v2/resize:fit:818/1*02SDxH5liMuWTa85WoeHAg.png">|<img title="prefect" alt="prefect" width="60px" src="https://cdn.worldvectorlogo.com/logos/prefect-wordmark-1.svg">
+<img title="Kafka" alt="Kafka" width="60px" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/kafka.png">|<img title="flink" alt="flink" width="60px" src="https://flink.apache.org/img/logo/png/200/flink_squirrel_200_color.png">|<img title="dbt" alt="dbt" width="60px" src="https://seeklogo.com/images/D/dbt-logo-E4B0ED72A2-seeklogo.com.png">|<img title="airflow" alt="airflow" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png">|<img title="flyte" alt="flyte" width="60px" src="https://miro.medium.com/v2/resize:fit:818/1*02SDxH5liMuWTa85WoeHAg.png">|<img title="prefect" alt="prefect" width="60px" src="https://cdn.worldvectorlogo.com/logos/prefect-wordmark-1.svg">
 |--|--|--|--|--|--|
 
 <br>
