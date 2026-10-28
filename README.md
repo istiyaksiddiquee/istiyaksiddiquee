@@ -28,8 +28,8 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Infrastructure**
 
-<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">|<img title="Kubernetes" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png">|<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="Vagrant" alt="Vagrant" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/vagrant/vagrant.png">|<img title="Terraform" alt="Terraform" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png">|<img title="Ansible" alt="Ansible" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/ansible/ansible.png">
-|--|--|--|--|--|--|
+<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">|<img title="Kubernetes" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png">|<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="GCP" alt="GCP" width="40px" src="https://images.seeklogo.com/logo-png/33/1/google-cloud-logo-png_seeklogo-336116.png">|<img title="Azure" alt="Azure" width="40px" src="https://images.seeklogo.com/logo-png/32/1/microsoft-azure-logo-png_seeklogo-326269.png"|<img title="Vagrant" alt="Vagrant" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/vagrant/vagrant.png">|<img title="Terraform" alt="Terraform" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png">|<img title="Ansible" alt="Ansible" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/ansible/ansible.png">
+|--|--|--|--|--|--|--|--|
 
 
 <!-- **Databases** 
