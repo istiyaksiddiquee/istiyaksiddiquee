@@ -2,7 +2,7 @@
 
 This is Istiyak. I have 9+ years of experience in backend development. In 2019, I came from Bangladesh to Germany. Since 2021, I have been working as a Backend and Machine Learning Engineer at Universitätsklinikum Magdeburg. 
 
-I am currently working on my portfolio project, showcasing my knowledge of full-stack machine learning workflow. 
+I am currently working on my portfolio project <a href="https://github.com/istiyaksiddiquee/MagnumOpus"> Magnum Opus </a>, showcasing my knowledge and understanding of end-to-end data engineering, machine learning, and MLOps workflow. 
 
 <img align="right" alt="Coder GIF"  width="450" height="318" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
